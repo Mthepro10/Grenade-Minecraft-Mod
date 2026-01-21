@@ -11,4 +11,5 @@ This is "Grenade Mod" (Fabric) : a Mod for people enjoying grenades and PVP :)
 
 # Modrinth
 Download the mod from the link below and make your world a hard PVP match.
-Link: 
+Link: https://modrinth.com/project/grenade-mod
+
